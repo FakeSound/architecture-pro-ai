@@ -1,0 +1,5 @@
+.env
+.venv
+raw_pages/
+knowledge_base/
+faiss_index/
