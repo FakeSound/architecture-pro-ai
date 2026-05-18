@@ -5,3 +5,4 @@ knowledge_base/
 faiss_index/
 __pycache__/
 .DS_Store
+.idea

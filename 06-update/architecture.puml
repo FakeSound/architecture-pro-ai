@@ -1,0 +1,35 @@
+@startuml architecture
+
+title Автоматическое обновление базы знаний
+
+actor cron
+
+rectangle "update.py" as script {
+    component "find_new_files()" as finder
+    component "process_files()\n(чанкинг)" as chunker
+    component "OpenAI Embeddings\ntext-embedding-3-small" as embedder
+    component "FAISS.add_documents()" as indexer
+}
+
+folder "docs/" as docs
+note right of docs : Новые .txt файлы\nпопадают сюда
+
+file "index_manifest.json" as manifest
+note right of manifest : {filepath: hash}\nотслеживает изменения
+
+database "faiss_index/\nindex.faiss\nindex.pkl" as faiss
+
+folder "logs/" as logs
+note right of logs : update_YYYYMMDD.log\ncron.log
+
+cron --> script : запускает
+docs --> finder : сканирует .txt
+manifest --> finder : сравнивает hash
+finder --> chunker : новые файлы
+chunker --> embedder : чанки (500 токенов)
+embedder --> indexer : векторы 1536d
+indexer --> faiss : add_documents()
+indexer --> manifest : обновляет хэш
+script --> logs : пишет лог
+
+@enduml
