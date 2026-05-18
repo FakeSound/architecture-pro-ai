@@ -1,0 +1,48 @@
+Dmitriy "Gh0str" Solkar  is a Russian professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: Xtrfy
+  model: M4
+  desc: White
+  dpi: 800
+  sensitivity: 1
+  windows: 6
+  zoom: 1
+  rawinput: On
+  polling: 1000
+
+Hardware table:
+  mouse-brand: Xtrfy
+  mouse-model: M4
+  mouse-desc: White
+  pad-brand: ZOWIE
+  pad-model: G-SR
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1024
+  h: 768
+  scaling: Black Bars
+  keyboard-brand: Xtrfy
+  keyboard-model: K4 TKL RGB
+  headset-brand: HyperX
+  headset-model: Cloud II
+
+Awards
+Was ranked the 4th best player of 2021 by TLVR.
+Was ranked the 3rd best player of 2022 by TLVR.
+Was ranked the 8th best player of 2023 by TLVR.
+Was ranked the 6th best player of 2024 by TLVR.
+Was ranked the 5th best player of 2025 by TLVR.
+
+MVPs
+Was named the TLVR MVP of 4 tournaments:
+TFM Katowice 2021.
+TFM Fall 2021: CIS.
+V4 Future Sports Festival - Budapest 2021.
+Funspark ULTI 2021.
+
+Records
+Most clutches won at a "Big event" (22).

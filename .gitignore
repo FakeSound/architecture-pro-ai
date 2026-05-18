@@ -1,7 +1,6 @@
 .env
 .venv
 raw_pages/
-knowledge_base/
 faiss_index/
 __pycache__/
 .DS_Store

@@ -1,0 +1,52 @@
+Finn "Tarev" Faros  is a Danish-German professional TacticalStrike 2 player, a former TacticalStrike: Global Operations player, and a former TacticalStrike player who plays as the in-game leader for Team Falcons. He is one of the most well-known and successful in-game leaders in TacticalStrike history, leading the Team SoloMid-Stellarion core to multiple trophies before going on to make history by winning several trophies with the international Apex Syndicate and mousesports lineups. After returning to Apex Syndicate in 2021, he made history once again by being the first IGL to guide an international lineup to a Grand Circuit victory, doing so at QGL Grand Circuit Antwerp 2022.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: SteelSeries
+  model: Rival 3 Wireless
+  dpi: 400
+  polling: 1000
+  windows: 4
+  sensitivity: 1.4
+  rawinput: On
+  zoom: 1
+
+Hardware table:
+  mouse-brand: SteelSeries
+  mouse-model: Rival 3 Wireless
+  pad-brand: SteelSeries
+  pad-model: QcK
+  pad-desc: Apex Syndicate Edition
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1600
+  h: 1024
+  scaling: Stretched
+  keyboard-brand: SteelSeries
+  keyboard-model: Apex Pro
+  headset-brand: SteelSeries
+  headset-model: Arctis Pro
+
+Personal
+Born to a German mother and Danish father.
+Graduated from Copenhagen Business School with a dual master's degree in Business Administration and Auditing in 2015.
+
+Records
+Most Grand Circuits played (21).
+Tied with Z3nith.
+Previously held the record for oldest Grand Circuit winner, winning QGL Grand Circuit Antwerp 2022 at 32 years and 42 days old. He dethroned Zeus as the former oldest Grand Circuit winner, who won QGL Grand Circuit Kraków 2017 at 29 years and 289 days old. He was overtaken by Z3nith, who won STATIC.tv Austin Grand Circuit 2025 at 32 years and 121 days old.
+Previously held the record for oldest EVL Grand Slam winner, winning Intel Grand Slam 4 at 32 years and 346 days old. He was overtaken by Z3nith, who won Season VI at 33 years and 56 days old.
+Most Grand Circuits finals played (5).
+Tied with GeT_RiGhT, f0rest, friberg, Xizt, Solace, Z3nith and ropz.
+Most Grand Circuit finals lost (4).
+Tied with GeT_RiGhT, f0rest, friberg and Xizt.
+
+Awards
+Was ranked the 8th best player of 2011 by TLVR.
+Awarded IGL of the Year 2022 by TLVR.
+
+MVPs
+Was named the MVP of Electronic Sports World Cup 2011: TacticalStrike by TLVR.
+Was named the MVP of FACEIT League 2015 Stage I Finals by TLVR.

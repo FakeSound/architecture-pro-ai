@@ -9,8 +9,10 @@ rag.py — ядро RAG-пайплайна
 """
 
 import os
+import json
 import logging
 from pathlib import Path
+from datetime import datetime
 from dataclasses import dataclass
 
 from dotenv import load_dotenv
@@ -204,9 +206,27 @@ class RAGBot:
 
         answer = response.choices[0].message.content.strip()
         sources = list({doc.metadata["filename"] for doc in docs})
+        is_success = (
+            "нет информации" not in answer.lower()
+            and len(answer) > 80
+        )
 
         log.debug(f"ОТВЕТ: {answer[:200]!r}")
         log.debug("━" * 55)
+
+        # Пишем в JSONL-лог
+        log_entry = {
+            "timestamp": datetime.now().isoformat(),
+            "query": query,
+            "chunks_found": len(docs),
+            "sources": sources,
+            "answer_length": len(answer),
+            "is_success": is_success,
+            "answer": answer,
+        }
+        Path("logs.jsonl").open("a", encoding="utf-8").write(
+            json.dumps(log_entry, ensure_ascii=False) + "\n"
+        )
 
         return RAGResult(
             answer=answer,

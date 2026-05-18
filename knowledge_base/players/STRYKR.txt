@@ -1,0 +1,35 @@
+Markev "STRYKR" Galvin  is a Latvian professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player. He is known for being one of the most aggressive entry fraggers in the world.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: ZOWIE
+  model: EC2-A
+  dpi: 800
+  polling: 1000
+  sensitivity: 1.2
+  zoom: 1
+  rawinput: On
+  windows: 6
+
+Hardware table:
+  mouse-brand: ZOWIE
+  mouse-model: EC2-A
+  pad-brand: SteelSeries
+  pad-model: QcK+
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1920
+  h: 1080
+  keyboard-brand: HyperX
+  keyboard-model: Alloy FPS RGB
+  headset-brand: HyperX
+  headset-model: Cloud II
+
+Trivia
+First professional player to get three aces in one half, doing so at TFM New York 2020: CIS in Virtus.pro's group stage match against ESPADA.
+Was ranked the 8th best player of 2021 by TLVR.
+Was ranked the 15th best player of 2022 by TLVR.
+Was ranked the 15th best player of 2025 by TLVR.
+He is the first Latvian to make it to TLVR's Top 20 Players of the Year Ranking (alongside broky).

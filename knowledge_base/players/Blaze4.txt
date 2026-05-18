@@ -1,0 +1,33 @@
+Keren "Blaze4" Mikhaylov  is a Russian professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player. He is best known for his time with Nexus Victus, where they won the QGL Grand Circuit Stockholm 2021 and Intel Grand Slam Season 3.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: ZOWIE
+  model: EC1-A
+  dpi: 400
+  polling: 1000
+  sensitivity: 1.45
+  zoom: 1
+  rawinput: On
+  windows: 6
+
+Hardware table:
+  mouse-brand: ZOWIE
+  mouse-model: EC1-A
+  pad-brand: Logitech
+  pad-model: G640
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1024
+  h: 768
+  scaling: Stretched
+  keyboard-brand: Logitech
+  keyboard-model: G PRO X
+  headset-brand: Logitech
+  headset-model: G PRO X
+
+Trivia
+"Blaze4" is pronounced /bum ɪt͡ʃ/ (boom itch). This is because "bl" looks like the Cyrillic letter Ы, which makes an [ɨ] sound (like the "i" in hit), and "4" looks like the Cyrillic letter Ч, which makes a /tʃ/ (ch or tch) sound.
+Got married in December 2021 and later divorced on June 8, 2022.

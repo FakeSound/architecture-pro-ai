@@ -1,0 +1,67 @@
+@startuml sequence
+
+title Обработка запроса и оценка качества RAG-бота
+
+actor "Пользователь /\nevaluate.py" as user
+participant "RAGBot\n(rag.py)" as bot
+database "FAISS\nIndex" as faiss
+participant "filter_chunks()" as filter
+participant "OpenAI\nLLM" as llm
+collections "logs.jsonl" as logs
+
+user -> bot : ask(query)
+activate bot
+
+bot -> faiss : similarity_search(query, k=4)
+activate faiss
+
+alt Индекс пустой или не найден
+    faiss --> bot : FileNotFoundError
+    bot --> user : ошибка загрузки
+else Индекс доступен
+    faiss --> bot : top-4 чанка
+end
+deactivate faiss
+
+bot -> filter : filter_chunks(docs)
+activate filter
+
+alt Чанк содержит инъекцию
+    filter -> logs : WARNING: заблокирован чанк
+    note right : "ignore instructions",\n"суперпароль" и т.д.
+else Чанк чистый
+    filter --> bot : чанк добавлен в контекст
+end
+deactivate filter
+
+alt Все чанки заблокированы
+    bot --> user : "нет информации"
+    bot -> logs : {chunks_found: 0, is_success: false}
+else Есть чистые чанки
+    bot -> llm : system_prompt + few_shot + context + query
+    activate llm
+
+    alt Ошибка API (rate limit, timeout)
+        llm --> bot : Exception
+        bot --> user : ошибка генерации
+    else Успешная генерация
+        llm --> bot : answer
+    end
+    deactivate llm
+
+    bot -> logs : {query, answer, sources, is_success}
+
+    alt Ответ содержит "нет информации"
+        bot --> user : пробел в базе знаний
+    else Ответ содержателен
+        bot --> user : answer + sources
+    end
+end
+
+deactivate bot
+
+' Оценка в evaluate.py
+user -> user : is_correct = compare(expect_answer, answered)
+user -> logs : eval_log.jsonl запись
+
+@enduml

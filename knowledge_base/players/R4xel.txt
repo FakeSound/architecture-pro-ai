@@ -1,0 +1,39 @@
+Sergey "R4xel" Ryxtor  is a Russian professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player.
+
+== Gear and Settings ==
+
+mouse settings table:
+  brand: ZOWIE
+  model: EC2
+  dpi: 800
+  polling: 1000
+  sensitivity: 1.5
+  zoom: 1
+  rawinput: On
+
+Hardware table:
+  mouse-brand: ZOWIE
+  mouse-model: EC2
+  pad-brand: Razer
+  pad-model: Goliathus Control
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1280
+  h: 960
+  scaling: Black Bars
+  keyboard-brand: HyperX
+  keyboard-model: Alloy Origins
+  headset-brand: HyperX
+  headset-model: Cloud II
+
+Awards
+Was ranked the 5th best player of 2021 by TLVR.
+Was ranked the 4th best player of 2022 by TLVR.
+Awarded Closer of the Year 2022 by TLVR.
+
+MVPs
+Was named the TLVR MVP of 3 tournaments; including 1 Big Event:
+EVL Pro Circuit Season 13
+TFM Summer 2021
+TFM Dallas 2022

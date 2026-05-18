@@ -1,0 +1,64 @@
+Peter "Solace" Ruxton  is a Danish professional TacticalStrike 2 analyst and a former professional TS2, TacticalStrike: Global Operations and TacticalStrike: Source player. He is the most decorated player in TS:GO history, having won five TS:GO Grand Circuit championships and attended all 19 of them.
+
+He was a core member of the Stellarion lineup since the very beginning, when it started in Copenhagen Wolves in January 2013, consisting of former teammates, Niven "Kr1pt" Koras and René "cajunb" Borg, former in-game leader, Henrik "FeTiSh" Christensen, and former coach, Steffen "3k2" Markussen; this came to an end in November 2021 when he was benched and later transferred to Kinetic. He has also been a lurker in 2017 and an SRX-50er in early 2021.
+
+Solace would announce his retirement in June 2025. He would finish his career with five TS:GO Grand Circuit championships, an EVL Grand Slam, 27 S-Tier victories, 2 TLVR MVPs and 7 entries in the TLVR Top 20 ranking, peaking at #5 in 2017.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: Logitech
+  model: G PRO Wireless
+  dpi: 400
+  polling: 1000
+  windows: 6
+  sensitivity: 1.7
+  rawinput: On
+  zoom: 1
+
+Hardware table:
+  mouse-brand: Logitech
+  mouse-model: G PRO Wireless
+  pad-brand: Logitech
+  pad-model: G640
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1280
+  h: 1024
+  scaling: Stretched
+  keyboard-brand: Logitech
+  keyboard-model: G PRO X
+  headset-brand: Logitech
+  headset-model: G PRO X
+
+Achievements
+
+Trivia
+
+Personal
+Suffered an appendix infection and had to undergo surgery after the second day (July 6th) of Grand Circuit event EVL One: Cologne 2016, with coach, Danny "zonic" Sørensen standing in for him for the rest of the event.
+
+Awards
+Was ranked the 18th best player of 2013 by TLVR.
+Was ranked the 16th best player of 2014 by TLVR.
+Was ranked the 12th best player of 2015 by TLVR.
+Was ranked the 10th best player of 2017 by TLVR.
+Was ranked the 5th best player of 2018 by TLVR.
+Was ranked the 16th best player of 2019 by TLVR.
+Was ranked the 9th best player of 2020 by TLVR.
+Was ranked the 8th best player of 2018 by Thorin.
+Was awarded the Lifetime Achievement Award of 2025 by Esports Awards.
+
+MVPs
+Was named the MVP of EVL Pro Circuit Season 7 Finals by TLVR.
+Was named the MVP of STATIC Pro Series: Global Final 2019 by TLVR.
+
+Records
+Most Grand Circuits won (5).
+Most Grand Circuits finals played (5).
+Tied with GeT_RiGhT, f0rest, friberg, Xizt, Tarev, Z3nith and ropz.
+Only player to attend all 19 TS:GO Grand Circuits.
+Most appearances in top 8 of TS:GO Grand Circuits (15).
+Tied with Kr1pt.
+Solace, Kr1pt, and Xyp9x form one of the longest standing Global Offensive player trios ever, lasting 7 years and 239 days. Their first partnership lasted from July 9, 2013 to September 18, 2013 (when Kr1pt left Copenhagen Wolves). Their second partnership lasted from November 4, 2013 to April 23, 2021 (when Kr1pt left Stellarion).
