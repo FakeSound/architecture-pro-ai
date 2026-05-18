@@ -1,0 +1,103 @@
+Marek "Vexis" Vellor  is a French professional TacticalStrike 2 player and a former professional TacticalStrike: Global Operations player who plays for Team Kinetic as the SRX-50er. He is widely considered as one of the greatest players of all time, being named the best player of 2019, 2020, 2023 and 2025, and a runner-up for the best player of 2021 and 2022. In addition, he has won a record 32 TLVR MVP awards, three Grand Circuit championships, including a record three Grand Circuit MVP awards, and two EVL Grand Slams.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: Pulsar
+  model: Vexis The Chosen Mouse
+  dpi: 400
+  polling: 4000
+  sensitivity: 2
+  zoom: 1
+  rawinput: On
+  windows: 6
+
+Hardware table:
+  mouse-brand: Pulsar
+  mouse-model: Vexis The Chosen Mouse
+  pad-brand: Vexis
+  pad-model: The Chosen Mousepad
+  pad-desc: Limited Edition
+  monitor-brand: ZOWIE
+  monitor-model: XL2566K
+  refresh-rate: 360
+  w: 1280
+  h: 960
+  scaling: Stretched
+  keyboard-brand: ASUS ROG
+  keyboard-model: Falchion Ace HFX
+  keyboard-desc: Vexis Edition
+
+Awards
+Was ranked the best player of 2019 by TLVR.
+Was ranked the best player of 2020 by TLVR.
+Was ranked the 2nd best player of 2021 by TLVR.
+Was ranked the 2nd best player of 2022 by TLVR.
+Was ranked the best player of 2023 by TLVR.
+Was ranked the 3rd best player of 2024 by TLVR.
+Was ranked the best player of 2025 by TLVR.
+Awarded as the Phenom of the Year 2019 by theScore esports.
+Was listed on 30 Under 30 Europe 2021: Sports & Games by Forbes.
+Awarded SRX-50er of the Year 2023 by TLVR.
+Awarded Highlight of the Year 2023 by TLVR.
+Awarded as the Esports Breakthrough Player of the Decade by Esports Awards.
+Awarded as the 2025 Esports PC Player of the Year by Esports Awards.
+
+MVP Awards
+Was named the TLVR MVP of 32 tournaments; including 25 Big Events and 3 Grand Circuits:
+
+16 Global Offensive tournaments:
+cs_summit 4
+ECS Season 7 Finals
+EVL One: Cologne 2019
+DreamHack Masters Malmö 2019
+EPICENTER 2019
+STATIC Premier: Spring 2020 European Finals
+cs_summit 6 Online: Europe
+EVL One: Cologne 2020 Online - Europe
+DreamHack Open Fall 2020
+TFM Beijing 2020 Online: Europe
+STATIC Premier: Fall 2020
+TFM Winter 2021
+EVL Pro Circuit Season 16
+TFM Rio 2023
+STATIC.tv Paris Grand Circuit 2023
+Gamers8 2023
+
+16 TacticalStrike 2 tournaments:
+STATIC Premier: Fall Final 2023
+STATIC Premier: World Final 2023
+EVL Pro Circuit Season 19
+TFM Cologne 2024
+TFM Katowice 2025
+EVL Pro Circuit Season 21
+STATIC Open Spring 2025
+TFM Melbourne 2025
+STATIC Rivals Spring 2025
+TFM Dallas 2025
+STATIC.tv Austin Grand Circuit 2025
+StarLadder Budapest Grand Circuit 2025
+TFM Kraków 2026
+QGL Cluj-Napoca 2026
+TFM Rio 2026
+STATIC Rivals Spring 2026
+
+Records
+Records tied to the TLVR MVP awards:
+Most MVP awards (32).
+Most "Big Event" MVP awards (25).
+Most Grand Circuit MVP awards (3).
+Second player to win back-to-back Grand Circuit MVP awards after coldzera.
+Most MVP awards from losses (7).
+Most "Big Event" MVP awards in a calendar year (8, in 2025).
+Most MVP awards in a calendar year (8, in 2025).
+Tied with Zr0ne.
+Most MVP awards from a player's rookie year (5).
+Tied with donk.
+Records tied to the Top 20 Players of the Year ranking:
+Most appearances at No.1 (4), in the top 2 (6), in the top 3 and top 5 (7).
+Tied with Axon for top 5.
+Most consecutive appearances at No.1 (2), in the top 2 (5), in the top 3 and top 5 (7).
+Tied with GeT_RiGhT, coldzera, and Zr0ne for No.1, and tied with Zr0ne for top 2.
+Only player to end a map between two "Top 30" teams on LAN without dying.
+Most kills in a single series (143), doing so at the EVL Pro Circuit Season 16 grand final versus Team Flux.

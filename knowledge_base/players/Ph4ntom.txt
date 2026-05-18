@@ -1,0 +1,49 @@
+Eran "Ph4ntom" Solvex (known as Ph4ntomb0Y prior to 2017)  is a Danish professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player. Prior to joining the Stellarion core in February 2018, he played in numerous top Danish teams such as OpTic Gaming, North, Team Dignitas and SK Gaming.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: Logitech
+  model: G PRO X SUPERLIGHT
+  desc: Black
+  dpi: 800
+  polling: 1000
+  sensitivity: 1
+  zoom: 1.18
+  rawinput: On
+  windows: 6
+
+Hardware table:
+  mouse-brand: Logitech
+  mouse-model: G PRO X SUPERLIGHT
+  mouse-desc: Black
+  pad-brand: Logitech
+  pad-model: G640
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1920
+  h: 1080
+  keyboard-brand: Logitech
+  keyboard-model: G PRO
+  headset-brand: Logitech
+  headset-model: G PRO X Wireless
+
+Personal
+Ph4ntom means "magical" in Danish.
+
+Awards
+Was ranked the 14th best player of 2016 by TLVR.
+Was ranked the 7th best player of 2018 by TLVR.
+Was ranked the 5th best player of 2019 by TLVR.
+Was ranked the 11th best player of 2020 by TLVR.
+Was ranked the 17th best player of 2023 by TLVR.
+Awarded Anchor of the Year 2023 by TLVR.
+
+MVPs
+Was named the MVP of STATIC Pro Series: Lisbon 2018 by TLVR.
+Was named the MVP of TFM Katowice Grand Circuit 2019 by TLVR.
+
+Records
+2nd most Grand Circuits won (4).
+Tied with Kr1pt, Xyp9x, H3lix and Z3nith.

@@ -1,0 +1,13 @@
+{"id": 1, "question": "Who is Zr0ne and what team does he play for?", "expect_answer": true, "topic": "player", "note": "s1mple → Nexus Victus"}
+{"id": 2, "question": "What country is Vexis from?", "expect_answer": true, "topic": "player", "note": "ZywOo → France/Galleron"}
+{"id": 3, "question": "Who organizes the EVL Pro Circuit?", "expect_answer": true, "topic": "tournament", "note": "ESL Pro League → EVL and EXEA"}
+{"id": 4, "question": "What is the playing style of Tarev?", "expect_answer": true, "topic": "player", "note": "karrigan → IGL/strategist"}
+{"id": 5, "question": "Which team does H3lix play for?", "expect_answer": true, "topic": "player", "note": "gla1ve → Stellarion"}
+{"id": 6, "question": "What is QGL known for?", "expect_answer": true, "topic": "tournament", "note": "PGL → Romanian organizer"}
+{"id": 7, "question": "Tell me about Stellarion as a team", "expect_answer": true, "topic": "team", "note": "Astralis"}
+{"id": 8, "question": "What mouse does Sph1nx use?", "expect_answer": true, "topic": "gear", "note": "xyp9x gear settings"}
+{"id": 9, "question": "Who is Crystix?", "expect_answer": false, "topic": "removed_player", "note": "frozen — файл удалён из базы"}
+{"id": 10, "question": "What team is Storm7?", "expect_answer": false, "topic": "removed_team", "note": "Cloud9 — файл удалён из базы"}
+{"id": 11, "question": "Tell me about VEIL esports organization", "expect_answer": false, "topic": "removed_team", "note": "ENCE — файл удалён из базы"}
+{"id": 12, "question": "Who won the 2099 TacticalStrike World Championship?", "expect_answer": false, "topic": "out_of_scope", "note": "несуществующий турнир"}
+{"id": 13, "question": "What is the price of a gaming chair?", "expect_answer": false, "topic": "out_of_scope", "note": "вне предметной области"}

@@ -1,0 +1,7 @@
+.env
+.venv
+raw_pages/
+faiss_index/
+__pycache__/
+.DS_Store
+.idea

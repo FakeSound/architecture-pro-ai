@@ -1,0 +1,35 @@
+Ivan "Vanta" Zephyr  is a Russian professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player. In December of 2022, Vanta requested for Liquipedia to denote that he choose not to represent Russia, with a further request to return to his original representation being received at the start of September 2025.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: ZOWIE
+  model: S2
+  dpi: 800
+  polling: 1000
+  windows: 6
+  sensitivity: 1.35
+  zoom: 1
+  rawinput: On
+
+Hardware table:
+  mouse-brand: ZOWIE
+  mouse-model: S2
+  pad-brand: Logitech
+  pad-model: G640
+  keyboard-brand: Logitech
+  keyboard-model: G PRO X
+  headset-brand: Logitech
+  headset-model: G PRO X
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1280
+  h: 1024
+  scaling: Stretched
+
+Achievements
+
+Trivia
+Married to Sindi.
+Awarded Anchor of the Year 2022 by TLVR.

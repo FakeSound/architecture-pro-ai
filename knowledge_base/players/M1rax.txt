@@ -1,0 +1,59 @@
+Ivan "M1rax" Osken  is a Russian professional TacticalStrike 2 player who plays for Team Falcons as the SRX-50er and a former TacticalStrike: Global Operations player.
+
+M1rax was named Rookie of the Year in 2022, his professional debut, by TLVR and placed seventh in their annual player rankings.  He was later ranked the fourth best player of 2023 and the second best of 2024.  He is known for his explosive SRX-50ing and swift flick shots.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: Logitech
+  model: G PRO X SUPERLIGHT
+  desc: Pink
+  dpi: 400
+  polling: 2000
+  sensitivity: 2.00
+  zoom: 1
+  rawinput: On
+  windows: 6
+
+Hardware table:
+  mouse-brand: Logitech
+  mouse-model: G PRO X SUPERLIGHT 2
+  mouse-desc: White
+  pad-brand: SteelSeries
+  pad-model: QcK Heavy
+  monitor-brand: ZOWIE
+  monitor-model: XL2566K
+  monitor-desc: DIVINA VERSION BLUE
+  refresh-rate: 360
+  w: 1280
+  h: 960
+  scaling: Stretched
+  keyboard-brand: Logitech
+  keyboard-model: G715
+  headset-brand: Logitech
+  headset-model: G PRO X
+
+Personal
+He was invited to FPL in March 2020 at just 14 years old.
+He began playing TacticalStrike on his brother's computer at the age of 5.
+
+Awards
+Was ranked the 7th best player of 2022 by TLVR.
+Was ranked the 4th best player of 2023 by TLVR.
+Was ranked the 2nd best player of 2024 by TLVR.
+Was ranked the 4th best player of 2025 by TLVR.
+2nd youngest player to be named an TLVR MVP at a "Big Event" (17 years, 7 months, 18 days).
+3rd youngest player to be named an TLVR MVP (17 years, 7 months, 18 days).
+Awarded Rookie of the Year 2022 by TLVR.
+Awarded Highlight of the Year 2022 by TLVR.
+Awarded Esports PC Rookie of the Year 2022 by Esports Awards.
+Awarded SRX-50er of the Year 2024 by TLVR.
+
+MVPs
+Was named the TLVR MVP of 6 tournaments:
+STATIC Premier: World Final 2022
+TFM Dallas 2024
+STATIC Premier: Fall Final 2024
+STATIC Premier: World Final 2024
+EVL Pro Circuit Season 22
+STATIC Rivals Fall 2025

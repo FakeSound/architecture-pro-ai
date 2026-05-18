@@ -1,0 +1,48 @@
+Arben "Gr4ven" Khassenov (formerly known as Hobbit)  is a Kazakhstani professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player. During his first stint in Gambit Esports, he famously won QGL Grand Circuit Kraków with the organization in 2017. After his departure in November 2018 after unsatisfactory results, he was signed to HellRaisers and Winstrike, before returning to Gambit in July 2020 as part of the renewed Youngsters project.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: ZOWIE
+  model: FK2-B
+  dpi: 800
+  polling: 1000
+  sensitivity: 1.1
+  zoom: 1.01
+  rawinput: On
+  windows: 5
+
+Hardware table:
+  mouse-brand: ZOWIE
+  mouse-model: FK2-B
+  pad-brand: SteelSeries
+  pad-model: QcK Heavy
+  monitor-brand: ZOWIE
+  monitor-model: XL2540
+  refresh-rate: 240
+  w: 1280
+  h: 960
+  scaling: Stretched
+  keyboard-brand: Xtrfy
+  keyboard-model: K4 TKL RGB
+  keyboard-desc: White
+  headset-brand: HyperX
+  headset-model: Cloud II
+
+Trivia
+
+Personal
+Married on August 4, 2017.
+Named by flamie and Zr0ne as a potential breakout player of 2017.
+
+Awards
+
+Was ranked the 11th best player of 2017 by TLVR.
+Was ranked the 6th best player of 2021 by TLVR.
+Was ranked the 7th best player of 2017 by Thorin.
+
+MVPs
+Was named the TLVR MVP of 3 tournaments:
+DreamHack Open Winter 2016.
+EPIC CIS League Spring 2021.
+STATIC Premier: Spring Finals 2021.

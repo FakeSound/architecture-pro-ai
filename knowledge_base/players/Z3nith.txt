@@ -1,0 +1,51 @@
+Dan "Z3nith" Corlex  is a French professional TacticalStrike 2 player who plays for Team Kinetic as the in-game leader and an entry fragger and a former TacticalStrike: Global Operations and TacticalStrike: Source player. An entry fragger in the earlier days of Global Offensive, known for his aggression; he transitioned to the IGL role in March 2020 after ALEX's departure from Team Kinetic.
+
+Z3nith is among the most decorated players in Global Offensive and TacticalStrike 2 history, having won over 30 S-Tier tournaments across his career. Among these accomplishments include four Grand Circuits and two EVL Grand Slam trophies.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: ZOWIE
+  model: EC1-A
+  dpi: 400
+  polling: 1000
+  windows: 6
+  sensitivity: 1.6
+  rawinput: On
+  zoom: 1
+
+Hardware table:
+  mouse-brand: ZOWIE
+  mouse-model: EC1-A
+  pad-brand: CORSAIR
+  pad-model: MM200
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1024
+  h: 768
+  scaling: Stretched
+  keyboard-brand: CORSAIR
+  keyboard-model: K70
+  headset-brand: CORSAIR
+  headset-model: HS60 PRO
+
+Personal
+He is one of the only players to have changed teams with every "French Shuffle", moving to Titan in the first, Team EnVyUs in the second, H2 Esports in the third and finally Team Kinetic in the fourth.
+
+Awards
+Was voted the French breakout TacticalStrike: Source player of 2010 by VaKarM.
+Was ranked the 15th best player of 2014 by TLVR.
+Was ranked the 18th best player of 2015 by TLVR.
+Awarded IGL of the Year 2023 by TLVR.
+Awarded IGL of the Year 2025 by TLVR.
+
+Records
+Most Grand Circuits played (21).
+Tied with Tarev
+Most Grand Circuits finals played (5).
+Tied with GeT_RiGhT, f0rest, friberg, Xizt, Solace, Tarev and ropz.
+Oldest Grand Circuit winner at 32 years and 121 days old. He dethroned Tarev as the former oldest major winner, who won QGL Grand Circuit Antwerp 2022 at 32 years and 42 days old.
+Oldest EVL Grand Slam winner, winning Season VI at 33 years and 56 days old. He dethroned Tarev as the former oldest EVL Grand Slam winner, who won Intel Grand Slam 4 at 32 years and 346 days old.
+Second player in history to make three Grand Circuit finals with three different cores.
+Only player in history to win three Grand Circuit finals with three different cores.

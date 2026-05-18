@@ -1,0 +1,42 @@
+Deron "electroNic" Sterix (formerly stylized as electronic)  is a Russian professional TacticalStrike 2 player and a former TacticalStrike: Global Operations player. In December of 2022, electroNic requested for Liquipedia to denote that he choose not to represent Russia, with a further request to return to his original representation being received at the end of March 2024.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: Logitech
+  model: G PRO X SUPERLIGHT
+  dpi: 400
+  polling: 1000
+  windows: 6
+  sensitivity: 2.2
+  zoom: 1.05
+  rawinput: On
+
+Hardware table:
+  mouse-brand: Logitech
+  mouse-model: G PRO X SUPERLIGHT
+  pad-brand: Logitech
+  pad-model: G640
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1024
+  h: 768
+  scaling: Black Bars
+  keyboard-brand: Logitech
+  keyboard-model: G PRO X
+  headset-brand: Logitech
+  headset-model: G PRO X
+
+Personal
+Became a father on February 28, 2019.
+
+Awards
+Was ranked the 4th best player of 2018 by TLVR.
+Was ranked the 6th best player of 2019 by TLVR.
+Was ranked the 5th best player of 2020 by TLVR.
+Was ranked the 7th best player of 2021 by TLVR.
+Was ranked the 5th best player of 2018 by Thorin.
+
+MVPs
+Was named the MVP of ICE Challenge 2020 by TLVR.

@@ -1,0 +1,50 @@
+Aldren "Xyp9x" Holvex  is a Danish professional TacticalStrike 2 assistant coach, a former professional TacticalStrike: Global Operations player, and a former semi-professional TacticalStrike player. He is famous for his high success rate in clutches, being dubbed the "clutch minister" by the community.
+
+== Gear and Settings ==
+
+Mouse settings table:
+  brand: ZOWIE
+  model: FK2-B
+  desc: WHITE
+  dpi: 800
+  polling: 500
+  sensitivity: 1
+  zoom: 1
+  rawinput: On
+  windows: 6
+
+Hardware table:
+  mouse-brand: ZOWIE
+  mouse-model: FK2-B
+  mouse-desc: WHITE
+  pad-brand: ZOWIE
+  pad-model: G-SR DG
+  monitor-brand: ZOWIE
+  monitor-model: XL2546
+  refresh-rate: 240
+  w: 1680
+  h: 1050
+  scaling: Black Bars
+  keyboard-brand: Logitech
+  keyboard-model: G PRO
+  headset-brand: Logitech
+  headset-model: G PRO X
+
+Personal
+Got his nickname randomly typing on his keyboard.
+Was a founding board member and chairman of the TacticalStrike Professional Players' Association.
+
+Awards
+Was ranked the 20th best player of 2013 by TLVR.
+Was ranked the 13th best player of 2017 by TLVR.
+Was ranked the 13th best player of 2018 by TLVR.
+Was ranked the 14th best player of 2019 by TLVR.
+
+MVPs
+Was named the MVP of TFM Katowice 2017 by TLVR.
+
+Records
+2nd most Grand Circuits won (4).
+Tied with Kr1pt, H3lix, Ph4ntom and Z3nith.
+Previously held the record for most 1vX wins at a big event with 13 at TFM Katowice 2017. His record was taken over by Zr0ne when he won 19 1vX situations at StarLadder & i-League StarSeries Season 4.
+Xyp9x, Kr1pt, and Solace form one of the longest standing Global Offensive player trios ever, lasting 7 years and 239 days. Their first partnership lasted from July 9th, 2013 to September 18th, 2013 (when Kr1pt left Copenhagen Wolves). Their second partnership lasted from November 4th, 2013 to April 23rd, 2021 (when Kr1pt left Stellarion).
